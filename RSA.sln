@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA", "RSA\RSA.csproj", "{6F03F462-DA5C-42D6-ABB0-3E5F3E149236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newRSA", "newRSA\newRSA.csproj", "{3E5A0797-6987-46E1-9300-F90FD6C64BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6AEB6DFD-FD43-4D00-8D24-8775052F090B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA2", "RSA2\RSA2.csproj", "{2C7D0AEF-36AF-4B90-A28A-93DE4309F453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F03F462-DA5C-42D6-ABB0-3E5F3E149236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F03F462-DA5C-42D6-ABB0-3E5F3E149236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F03F462-DA5C-42D6-ABB0-3E5F3E149236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F03F462-DA5C-42D6-ABB0-3E5F3E149236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5A0797-6987-46E1-9300-F90FD6C64BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5A0797-6987-46E1-9300-F90FD6C64BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5A0797-6987-46E1-9300-F90FD6C64BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5A0797-6987-46E1-9300-F90FD6C64BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEB6DFD-FD43-4D00-8D24-8775052F090B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEB6DFD-FD43-4D00-8D24-8775052F090B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEB6DFD-FD43-4D00-8D24-8775052F090B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEB6DFD-FD43-4D00-8D24-8775052F090B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7D0AEF-36AF-4B90-A28A-93DE4309F453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7D0AEF-36AF-4B90-A28A-93DE4309F453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7D0AEF-36AF-4B90-A28A-93DE4309F453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7D0AEF-36AF-4B90-A28A-93DE4309F453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06C5E4D-A08E-436C-9867-337BEA7C1FD4}
+	EndGlobalSection
+EndGlobal
